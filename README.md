@@ -1,2 +1,2 @@
 # Pizza
-practice repository
+Single HTML/CSS Web Page Demo
